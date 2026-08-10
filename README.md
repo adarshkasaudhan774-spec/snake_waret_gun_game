@@ -110,6 +110,4 @@ Through this project, I learned:
 
 This project was created as a beginner Python project to practice programming concepts and logical problem solving.
 
-## ⭐ Support
 
-If you like this project, consider giving the repository a ⭐ on GitHub!
